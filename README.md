@@ -1,5 +1,6 @@
 
 Sarabjeet Singh
+
 https://www.linkedin.com/in/sarab96
 
 Machine Learning with Neural Networks: CNN, LSTM, RNN
